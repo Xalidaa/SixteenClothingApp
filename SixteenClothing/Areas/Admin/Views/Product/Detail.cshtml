@@ -1,0 +1,14 @@
+﻿@using SixteenClothing.Models
+@model Product
+<div style="display: flex; justify-content: center;">
+    <div class="card" style="width: 18rem;">
+        <img src="~/assets/images/@Model.Image" class="card-img-top" alt="image" >
+        <div class="card-body">
+            <h5 class="card-title">@Model.Title</h5>
+            <h5 class="card-title">@Model.Price</h5>
+            <p class="card-text">@Model.Description</p>
+            <a asp-controller="Product" asp-action="Index" class="btn btn-primary">Go back to Products</a>
+        </div>
+    </div>
+</div>
+

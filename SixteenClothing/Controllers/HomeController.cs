@@ -59,8 +59,8 @@ namespace SixteenClothing.Controllers
                     Image = "product_06.jpg"
                 }
             };
-            _context.Products.AddRange(products);
-            _context.SaveChanges();
+            //_context.Products.AddRange(products);
+            //_context.SaveChanges();
             return View(products);
         }
     }
