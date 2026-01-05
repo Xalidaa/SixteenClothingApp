@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\SixteenClothing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5053357E-47C7-4C15-AB05-A754397463A6}|SixteenClothing\\SixteenClothing.csproj|c:\\users\\dell\\desktop\\sixteenclothing\\sixteenclothing\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5053357E-47C7-4C15-AB05-A754397463A6}|SixteenClothing\\SixteenClothing.csproj|solutionrelative:sixteenclothing\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5053357E-47C7-4C15-AB05-A754397463A6}|SixteenClothing\\SixteenClothing.csproj|c:\\users\\dell\\desktop\\sixteenclothing\\sixteenclothing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5053357E-47C7-4C15-AB05-A754397463A6}|SixteenClothing\\SixteenClothing.csproj|solutionrelative:sixteenclothing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5053357E-47C7-4C15-AB05-A754397463A6}|SixteenClothing\\SixteenClothing.csproj|c:\\users\\dell\\desktop\\sixteenclothing\\sixteenclothing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5053357E-47C7-4C15-AB05-A754397463A6}|SixteenClothing\\SixteenClothing.csproj|solutionrelative:sixteenclothing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5053357E-47C7-4C15-AB05-A754397463A6}|SixteenClothing\\SixteenClothing.csproj|c:\\users\\dell\\desktop\\sixteenclothing\\sixteenclothing\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5053357E-47C7-4C15-AB05-A754397463A6}|SixteenClothing\\SixteenClothing.csproj|solutionrelative:sixteenclothing\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5053357E-47C7-4C15-AB05-A754397463A6}|SixteenClothing\\SixteenClothing.csproj|c:\\users\\dell\\desktop\\sixteenclothing\\sixteenclothing\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5053357E-47C7-4C15-AB05-A754397463A6}|SixteenClothing\\SixteenClothing.csproj|solutionrelative:sixteenclothing\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5053357E-47C7-4C15-AB05-A754397463A6}|SixteenClothing\\SixteenClothing.csproj|c:\\users\\dell\\desktop\\sixteenclothing\\sixteenclothing\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5053357E-47C7-4C15-AB05-A754397463A6}|SixteenClothing\\SixteenClothing.csproj|solutionrelative:sixteenclothing\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5053357E-47C7-4C15-AB05-A754397463A6}|SixteenClothing\\SixteenClothing.csproj|c:\\users\\dell\\desktop\\sixteenclothing\\sixteenclothing\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -15,8 +31,16 @@
       "RelativeMoniker": "D:0:0:{5053357E-47C7-4C15-AB05-A754397463A6}|SixteenClothing\\SixteenClothing.csproj|solutionrelative:sixteenclothing\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5053357E-47C7-4C15-AB05-A754397463A6}|SixteenClothing\\SixteenClothing.csproj|c:\\users\\dell\\desktop\\sixteenclothing\\sixteenclothing\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5053357E-47C7-4C15-AB05-A754397463A6}|SixteenClothing\\SixteenClothing.csproj|solutionrelative:sixteenclothing\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5053357E-47C7-4C15-AB05-A754397463A6}|SixteenClothing\\SixteenClothing.csproj|c:\\users\\dell\\desktop\\sixteenclothing\\sixteenclothing\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5053357E-47C7-4C15-AB05-A754397463A6}|SixteenClothing\\SixteenClothing.csproj|solutionrelative:sixteenclothing\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5053357E-47C7-4C15-AB05-A754397463A6}|SixteenClothing\\SixteenClothing.csproj|c:\\users\\dell\\desktop\\sixteenclothing\\sixteenclothing\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5053357E-47C7-4C15-AB05-A754397463A6}|SixteenClothing\\SixteenClothing.csproj|solutionrelative:sixteenclothing\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5053357E-47C7-4C15-AB05-A754397463A6}|SixteenClothing\\SixteenClothing.csproj|c:\\users\\dell\\desktop\\sixteenclothing\\sixteenclothing\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,14 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5053357E-47C7-4C15-AB05-A754397463A6}|SixteenClothing\\SixteenClothing.csproj|c:\\users\\dell\\desktop\\sixteenclothing\\sixteenclothing\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5053357E-47C7-4C15-AB05-A754397463A6}|SixteenClothing\\SixteenClothing.csproj|solutionrelative:sixteenclothing\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5053357E-47C7-4C15-AB05-A754397463A6}|SixteenClothing\\SixteenClothing.csproj|c:\\users\\dell\\desktop\\sixteenclothing\\sixteenclothing\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5053357E-47C7-4C15-AB05-A754397463A6}|SixteenClothing\\SixteenClothing.csproj|solutionrelative:sixteenclothing\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5053357E-47C7-4C15-AB05-A754397463A6}|SixteenClothing\\SixteenClothing.csproj|c:\\users\\dell\\desktop\\sixteenclothing\\sixteenclothing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5053357E-47C7-4C15-AB05-A754397463A6}|SixteenClothing\\SixteenClothing.csproj|solutionrelative:sixteenclothing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,24 +62,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\SixteenClothing\\SixteenClothing\\Program.cs",
+              "RelativeDocumentMoniker": "SixteenClothing\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\SixteenClothing\\SixteenClothing\\Program.cs",
+              "RelativeToolTip": "SixteenClothing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:39:06.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\SixteenClothing\\SixteenClothing\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SixteenClothing\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\SixteenClothing\\SixteenClothing\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "SixteenClothing\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:38:07.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\SixteenClothing\\SixteenClothing\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "SixteenClothing\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\SixteenClothing\\SixteenClothing\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "SixteenClothing\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:11:33.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\SixteenClothing\\SixteenClothing\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SixteenClothing\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\SixteenClothing\\SixteenClothing\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "SixteenClothing\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-05T06:20:06.515Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\SixteenClothing\\SixteenClothing\\Views\\Contact\\Index.cshtml",
               "RelativeDocumentMoniker": "SixteenClothing\\Views\\Contact\\Index.cshtml",
@@ -76,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "ContactController.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\SixteenClothing\\SixteenClothing\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "SixteenClothing\\Controllers\\ContactController.cs",
@@ -89,13 +148,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\SixteenClothing\\SixteenClothing\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SixteenClothing\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\SixteenClothing\\SixteenClothing\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SixteenClothing\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T05:57:20.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\SixteenClothing\\SixteenClothing\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SixteenClothing\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\SixteenClothing\\SixteenClothing\\Models\\Product.cs",
+              "RelativeToolTip": "SixteenClothing\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:11:10.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\SixteenClothing\\SixteenClothing\\Views\\About\\Index.cshtml",
               "RelativeDocumentMoniker": "SixteenClothing\\Views\\About\\Index.cshtml",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\SixteenClothing\\SixteenClothing\\Views\\About\\Index.cshtml",
               "RelativeToolTip": "SixteenClothing\\Views\\About\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8BAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwCoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-05T06:16:52.411Z",
               "EditorCaption": ""
@@ -103,19 +188,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AboutController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\SixteenClothing\\SixteenClothing\\Controllers\\AboutController.cs",
-              "RelativeDocumentMoniker": "SixteenClothing\\Controllers\\AboutController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\SixteenClothing\\SixteenClothing\\Controllers\\AboutController.cs",
-              "RelativeToolTip": "SixteenClothing\\Controllers\\AboutController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T06:16:43.867Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\SixteenClothing\\SixteenClothing\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SixteenClothing\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\SixteenClothing\\SixteenClothing\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SixteenClothing\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T05:57:31.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\SixteenClothing\\SixteenClothing\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "SixteenClothing\\Views\\Product\\Index.cshtml",
@@ -128,7 +213,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\SixteenClothing\\SixteenClothing\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "SixteenClothing\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\SixteenClothing\\SixteenClothing\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "SixteenClothing\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T06:16:43.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\SixteenClothing\\SixteenClothing\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "SixteenClothing\\Controllers\\ProductController.cs",
@@ -138,36 +236,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T06:09:29.339Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\SixteenClothing\\SixteenClothing\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "SixteenClothing\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\SixteenClothing\\SixteenClothing\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "SixteenClothing\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-05T05:57:31.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\SixteenClothing\\SixteenClothing\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "SixteenClothing\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\SixteenClothing\\SixteenClothing\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "SixteenClothing\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T05:57:20.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
